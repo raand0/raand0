@@ -51,10 +51,6 @@ public class Main {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raand0&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raand0&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
