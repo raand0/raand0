@@ -15,7 +15,7 @@ public class Main {
     private String name = "Rand Jamal";
     private String location = "Kurdistan, Sulaymaniyah";
     private String role = "Programmer";
-    private String[] languages = {"Java", "PHP", "C#", "MySQL"};
+    private String[] languages = {"Java", "PHP", "C#", "MySQL", "JavaScript", "CSS and HTML"};
     
     private Technologies technologies = new Technologies();
     private String currentFocus = "Learning networking";
